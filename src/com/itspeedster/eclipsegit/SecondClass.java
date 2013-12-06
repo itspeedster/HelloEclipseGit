@@ -9,4 +9,7 @@ package com.itspeedster.eclipsegit;
  */
 public class SecondClass {
 
+  public static void main(String args[]){
+    
+  }
 }
